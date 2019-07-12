@@ -22,7 +22,7 @@
 <td>Indraprasta PGRI</td>
 </tr>
 <tr>
-<td>Program Sutid</td>
+<td>Program Studi</td>
 <td>:</td>
 <td>Informatika</td>
 </tr>
